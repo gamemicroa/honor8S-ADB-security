@@ -38,15 +38,17 @@ Always make a backup before running any scripts.
 
 ---
 
-## Example app replacements
+##  Example app replacements
 
-| Google App        | Alternative        |
-|------------------|--------------------|
-| Chrome           | Firefox            |
-| Gmail            | K-9 Mail           |
-| Google Maps      | Organic Maps       |
-| Google Photos    | Aves Gallery       |
-| Google Play      | F-Droid            |
+| Google App        | Alternative(s)                          |
+|------------------|------------------------------------------|
+| Chrome           | Firefox / Brave                          |
+| Gmail            | K-9 Mail / Proton Mail                   |
+| Google Maps      | Organic Maps / OsmAnd                    |
+| Google Photos    | Aves Gallery / Ente Photos               |
+| Google Drive     | Proton Drive                             |
+| Google Search    | DuckDuckGo / Brave Search                |
+| Google Play      | F-Droid                                  |
 
 ---
 
