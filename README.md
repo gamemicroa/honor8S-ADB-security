@@ -58,10 +58,6 @@ Always make a backup before running any scripts.
 2. Connect phone to PC  
 3. Run the script:
 
-```bat
-debloat.bat
-```
-
 ---
 
 ## Goal
@@ -71,3 +67,7 @@ Make Android cleaner, faster, and more privacy-focused without root.
 
 ##  License
 MIT License
+
+contact discord: Microa or aarnushka
+
+making more scripts soon! later for linux primary for windows.
